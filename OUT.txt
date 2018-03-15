@@ -1,0 +1,57 @@
+paralell_seg(N) NO 
+two_seg_in_oneline(N) NO 
+two_seg_with_onepoint(Y) YES 1 -0
+two_seg_in_one(Y) YES 
+korch(peres) YES -0 -0
+korch(peres) YES 1 2
+korch(peres) YES 
+korch(peres) YES 1 -0
+korch(peres) YES 
+korch(peres) YES 
+korch(peres) YES 
+korch(noper) NO 
+korch(noper) NO 
+korch(noper) NO 
+korch(noper) NO 
+korch(noper) NO 
+korch(noper) NO 
+korch(peres) YES 0.9090909090909090909337318675564887371365330182015895843505859375 0.9090909090909090909337318675564887371365330182015895843505859375
+korch(peres) YES -0 1
+testcase_1(N) NO 
+testcase_2(N) NO 
+testcase_3(N) NO 
+testcase_4(Y) YES 2 2
+testcase_5(Y) YES 
+CHER_1(Y) YES 
+CHER_2(N) NO 
+CHER_3(Y) YES 
+CHER_4(Y) YES 1 1
+CHER_5 YES 
+zol1(N) NO 
+zol2(N) NO 
+zol3(Y) YES 0.866666666666666666673894681149903362893383018672466278076171875 2.5333333333333333333044212754003865484264679253101348876953125
+zol4(Y) YES 0 4
+zol5(N) NO 
+Sveta NO 
+Sveta NO 
+Sveta YES 1 -0
+Sveta YES 1 -0
+Sveta YES 
+Sveta YES 
+Sveta YES 
+Pritugin1(NO) NO 
+Pritugin2(YES) YES 3 3
+Pritugin3(YES) YES 
+Pritugin4(YES) YES 
+Pritugin5(YES) YES 3 3
+a1 YES 0 -0
+a2 YES 6 4
+a3 NO 
+a4 NO 
+a5 YES 6 4
+a6 YES 
+a7 NO 
+a8 NO 
+a9 YES 
+a12 YES 
+a11 NO 

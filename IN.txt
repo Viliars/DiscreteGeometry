@@ -1,0 +1,82 @@
+paralell_seg(N) 0 505 0 0 515.515 -44 515.515 -45
+two_seg_in_oneline(N) 0 0 0 1000.89 0 -3.14 0 -0.00001
+two_seg_with_onepoint(Y) 1 0 -5555 9999.98741 -74.654123 0 1 0 
+two_seg_in_one(Y) 0 0 0 500 0 500 0 0
+korch(peres) 0 1 0 0 0 0 1 0
+
+korch(peres) 1 3 1 2 1 2 2 2
+
+korch(peres) 0 1 1 1 1 1 2 1
+
+korch(peres) 0 2 1 0 1 0 2 2
+
+korch(peres) 1 3 1 1 1 2 1 0
+
+korch(peres) 1 1 3 1 2 1 4 1
+
+korch(peres) 1 1 2 1 1 1 2 1
+
+korch(noper) 1 1 2 1 3 1 4 1
+
+korch(noper) 1 4 1 3 1 2 1 1
+
+korch(noper) 1 1 2 2 3 3 4 4
+
+korch(noper) 0 2 1 3 1 1 3 3
+
+korch(noper) 2 2 3 2 1 1 4 1
+
+korch(noper) 2 2 2 1 3 3 3 2
+
+korch(peres) 0 0 1 1 0 1 10 0
+
+korch(peres) 0 2 0 0 0 1 1 1
+
+testcase_1(N) 1 1 3 3 4 4 5 5
+
+testcase_2(N) 0 0 0 4 0 -2 0 -1
+
+testcase_3(N) 0.00000001 0.00000001 8.00000001 4.00000001 2 1 6 3
+
+testcase_4(Y) 1 1 2 2 2 2 2 3
+
+testcase_5(Y) 1 1 6 6 4 4 7 7
+
+CHER_1(Y) 0 2 2 2 0.00000001 2 0.00000001 2
+CHER_2(N) 0.00000001 0.00000001 4.00000001 2.00000001 2 1 6 3
+CHER_3(Y) 0 0 0 0 0 0 0 0
+CHER_4(Y) 1 0 1 3 0 1 2 1
+CHER_5 0 0 4 2 2 1 6 3
+zol1(N) 3 2 6 -3 4 7 0 0
+
+zol2(N) 6 31 43 75 0 0 0 9
+
+zol3(Y) -1 2 6 4 3 2 -9 5
+
+zol4(Y) 0 0 0 4 6 -1 0 4
+
+zol5(N) 4 5 2 4 7 3 3 2
+Sveta 1 1 5 5 1 2 1 10
+Sveta 2 1 5 3 3 3 1 5
+Sveta 0 0 1 0 1 0 2 2
+Sveta 0 0 1 0 1 0 1 2
+Sveta 0 0 1 0 1 0 2 0
+Sveta 3 3 1 1 2 2 4 4
+Sveta 1 1 3 3 3 3 5 5
+Pritugin1(NO) 3 3 3 6 6 3 6 6 
+Pritugin2(YES) 3 3 3 6 3 3 6 6 
+Pritugin3(YES) 3 3 3 3 3 3 3 3 
+Pritugin4(YES) 3 3 3 6 3 2 3 5 
+Pritugin5(YES) 0 0 6 6 0 6 6 0
+a1 -1 -1 2 2 -1 1 1 -1
+a2 2 8 9 1 6.0 4.0 9.0 7.0
+a3 6 4 9 1 8 4 10 6
+a4 6 4 9 7 8 4 10 6
+a5 2 8 6 4 6 4 9 7
+a6 2 8 6 4 6 4 9 1
+a7 5 1 6 2 8 4 10 6
+a8 2 8 4 6 6 4 9 1
+a9 2 8 6 4 4 6 9 1
+a12 2 8	9 1 4 6	6 4
+a11 8 0	6 3 -3 -42 -5 -66
+
